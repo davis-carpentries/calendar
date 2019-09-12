@@ -4,6 +4,9 @@ Davis CarpenTea meetups are the second Thursday of every month from 3:00 - 5:00p
 
 [Google Calendar of Davis area Carpentry related events](https://calendar.google.com/calendar?cid=amgyMm5scDNlMWdlMWNtNXI1bWc5bzhsaG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
+[Davis Carpentries meetup Slack channel](https://app.slack.com/client/T03LE485Y/CL689CRT5)
+Join Carpentries Slack: [https://app.slack.com/client/T03LE485Y/CL689CRT5](https://app.slack.com/client/T03LE485Y/CL689CRT5)
+
  - Future meetups, talks, hackathons, etc.
  - a place to aggregate people/meetings/resources
  
