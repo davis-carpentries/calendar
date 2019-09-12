@@ -7,6 +7,8 @@ Davis CarpenTea meetups are the second Thursday of every month from 3:00 - 5:00p
 [Davis Carpentries meetup Slack channel](https://app.slack.com/client/T03LE485Y/CL689CRT5)
 Join Carpentries Slack: [https://app.slack.com/client/T03LE485Y/CL689CRT5](https://app.slack.com/client/T03LE485Y/CL689CRT5)
 
+[Davis CarpenTea meetup etherpad](https://pad.carpentries.org/davis-carpentea) with notes from meetings
+
  - Future meetups, talks, hackathons, etc.
  - a place to aggregate people/meetings/resources
  
