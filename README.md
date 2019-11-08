@@ -1,6 +1,8 @@
 # Davis Carpentries Calendar
 
-Davis CarpenTea meetups are the second Thursday of every month from 3:00 - 5:00pm at 508 2nd St #208.
+Davis CarpenTea meetups are the second Tuesday of every month from 2:00 - 4:00pm at 508 2nd St #208.
+
+**Next meeting: November 19th, 2-4pm (special 3rd Tuesday)**
 
 [Google Calendar of Davis area Carpentry related events](https://calendar.google.com/calendar?cid=amgyMm5scDNlMWdlMWNtNXI1bWc5bzhsaG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
